@@ -10,11 +10,11 @@
 
 3. Pseudocode currency converter
 
-     R: START
-        USD <-- GET
-        BTC <-- 0.000043 (Precio de hoy!!!)
-        Result <-- USD * BTC
-        PRINT Result
+     R: </br>START </br>
+        USD <-- GET </br>
+        BTC <-- 0.000043 (Precio de hoy!!!) </br>
+        Result <-- USD * BTC</br>
+        PRINT Result</br>
         END
 
 4. Learn about High and Low level languages

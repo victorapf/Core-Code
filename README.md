@@ -12,3 +12,4 @@ Aclaracion de dudas sobre el temario, el bootcamp, los stand ups, además de for
 Code practice con los compañeros del equipo
 
 - [Tuesday Challenges](Tuesday-challenges-first-week/README.md)
+- [Wednesday Challenges](Wednesday-challenges-first-week/README.md)
